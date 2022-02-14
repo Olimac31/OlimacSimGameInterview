@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: b36d7c8f67baee74882ea204183e5e1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3949021507527073834
+    second: charactertest2 - body_0
+  - first:
+      213: 137491900535083890
+    second: charactertest2 - body_1
+  - first:
+      213: -6784531686048500348
+    second: charactertest2 - body_2
+  - first:
+      213: 4100523907489045162
+    second: charactertest2 - body_3
+  - first:
+      213: -693045779183452195
+    second: charactertest2 - body_4
+  - first:
+      213: 4578252884486168377
+    second: charactertest2 - body_5
+  - first:
+      213: -4816337076131833430
+    second: charactertest2 - body_6
+  - first:
+      213: 6144334204475536178
+    second: charactertest2 - body_7
+  - first:
+      213: 1493785660793764479
+    second: charactertest2 - body_8
+  - first:
+      213: -7491970800334442860
+    second: charactertest2 - body_9
+  - first:
+      213: 4689795035572532964
+    second: charactertest2 - body_10
+  - first:
+      213: 8148283486904679425
+    second: charactertest2 - body_11
+  - first:
+      213: -738017049829176252
+    second: charactertest2 - body_12
+  - first:
+      213: -6532189184854931355
+    second: charactertest2 - body_13
+  - first:
+      213: -7363306035601981479
+    second: charactertest2 - body_14
+  - first:
+      213: -6686051060172242951
+    second: charactertest2 - body_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: charactertest2 - body_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df98799cd14239c0800000000000000
+      internalID: -3949021507527073834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest2 - body_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 441
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27313e2b72878e100800000000000000
+      internalID: 137491900535083890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest2 - body_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 441
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48572b5a06088d1a0800000000000000
+      internalID: -6784531686048500348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest2 - body_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 441
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa91e2b4ccf7e830800000000000000
+      internalID: 4100523907489045162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest2 - body_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfbfa6298ec166f0800000000000000
+      internalID: -693045779183452195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest2 - body_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 392
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f94b7edb8398f30800000000000000
+      internalID: 4578252884486168377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest2 - body_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 392
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa95e9282fee82db0800000000000000
+      internalID: -4816337076131833430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest2 - body_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 392
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233fb07a76f054550800000000000000
+      internalID: 6144334204475536178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest2 - body_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a3f22e42efab410800000000000000
+      internalID: 1493785660793764479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest2 - body_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 343
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e6772504c270890800000000000000
+      internalID: -7491970800334442860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest2 - body_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 343
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6f0bcbcbf751140800000000000000
+      internalID: 4689795035572532964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest2 - body_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 343
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c722ee8a4841170800000000000000
+      internalID: 8148283486904679425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest2 - body_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c00c2476902c5f0800000000000000
+      internalID: -738017049829176252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest2 - body_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 294
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568c21f9b800955a0800000000000000
+      internalID: -6532189184854931355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest2 - body_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 294
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df347f4c2840d990800000000000000
+      internalID: -7363306035601981479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest2 - body_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 294
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff3f482cff5633a0800000000000000
+      internalID: -6686051060172242951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

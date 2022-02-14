@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 63f644b2ebb8b66419702777c355eb74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2528566225476424846
+    second: charactertest3-legs_0
+  - first:
+      213: 7821821838639685314
+    second: charactertest3-legs_1
+  - first:
+      213: 2659900309187664294
+    second: charactertest3-legs_2
+  - first:
+      213: -6676347725046584292
+    second: charactertest3-legs_3
+  - first:
+      213: 7874735825585848484
+    second: charactertest3-legs_4
+  - first:
+      213: 2707822441604407932
+    second: charactertest3-legs_5
+  - first:
+      213: 4278657086912724805
+    second: charactertest3-legs_6
+  - first:
+      213: 4147497952268890330
+    second: charactertest3-legs_7
+  - first:
+      213: -2063396615864599875
+    second: charactertest3-legs_8
+  - first:
+      213: -1301384314932954285
+    second: charactertest3-legs_9
+  - first:
+      213: 5701803050741453014
+    second: charactertest3-legs_10
+  - first:
+      213: 8942909850527204395
+    second: charactertest3-legs_11
+  - first:
+      213: 7788023863428667284
+    second: charactertest3-legs_12
+  - first:
+      213: -14939932275861302
+    second: charactertest3-legs_13
+  - first:
+      213: -8779916073693276346
+    second: charactertest3-legs_14
+  - first:
+      213: 3861316797012037856
+    second: charactertest3-legs_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: charactertest3-legs_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b6d633a6ab8ecd0800000000000000
+      internalID: -2528566225476424846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest3-legs_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 441
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ced28c3581bc8c60800000000000000
+      internalID: 7821821838639685314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest3-legs_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 441
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9151b0d3dd9e420800000000000000
+      internalID: 2659900309187664294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest3-legs_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 441
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c6c9bed19d853a0800000000000000
+      internalID: -6676347725046584292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest3-legs_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a04610e28ea84d60800000000000000
+      internalID: 7874735825585848484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest3-legs_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 392
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7269aaf92e149520800000000000000
+      internalID: 2707822441604407932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest3-legs_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 392
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ff32583f7d06b30800000000000000
+      internalID: 4278657086912724805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest3-legs_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 392
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0b5a7c96fde8930800000000000000
+      internalID: 4147497952268890330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest3-legs_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbab5a0d5b75d53e0800000000000000
+      internalID: -2063396615864599875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest3-legs_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 343
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bf7205cdd80fde0800000000000000
+      internalID: -1301384314932954285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest3-legs_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 343
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0deaa4aafd02f40800000000000000
+      internalID: 5701803050741453014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest3-legs_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 343
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b240403a0299b1c70800000000000000
+      internalID: 8942909850527204395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest3-legs_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4975ee9e07e941c60800000000000000
+      internalID: 7788023863428667284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest3-legs_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 294
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac89ab3f53ceacff0800000000000000
+      internalID: -14939932275861302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest3-legs_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 294
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64715c559d8772680800000000000000
+      internalID: -8779916073693276346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charactertest3-legs_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 294
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0d6233b27269530800000000000000
+      internalID: 3861316797012037856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

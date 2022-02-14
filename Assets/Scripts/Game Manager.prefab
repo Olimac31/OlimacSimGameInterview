@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1783637843566358151
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1783637843566358149}
+  - component: {fileID: 1783637843566358150}
+  m_Layer: 0
+  m_Name: Game Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1783637843566358149
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1783637843566358151}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.7168431, y: -1.1069027, z: -121.86332}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1575223765924978945}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1783637843566358150
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1783637843566358151}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbc85c4da12a00b4db9e0d0d50ef1754, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GlobalPixelsPerUnit: 16
+  globalGold: 0
+  playerEnergy: 100
+  playerStress: 0
+  nightFilter: 0
+  chosenSkins: 000000000000000000000000
+  skinMenuPrefab: {fileID: 3443657972704621369, guid: 34db7c1c6b9106841b8a0acd0d49c629, type: 3}
+--- !u!1 &8250110495337198682
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1575223765924978945}
+  - component: {fileID: 2934964692860750419}
+  m_Layer: 0
+  m_Name: GlobalSkinList
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1575223765924978945
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8250110495337198682}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.2458715, y: 11.30836, z: 116.42471}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1783637843566358149}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2934964692860750419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8250110495337198682}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3cadac32bde36244b198f67964e1484, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  totalSkins: 3
+  headSkins:
+  - {fileID: 9100000, guid: 06a8dde5ae7f31342a268ba064b79380, type: 2}
+  - {fileID: 9100000, guid: 68ba28e6f16e5b04aba4d6de8a956674, type: 2}
+  - {fileID: 9100000, guid: 1f0349a56f0e85742a253fa5929d6e3c, type: 2}
+  bodySkins:
+  - {fileID: 9100000, guid: 3f8a570ac66e4c14695574989a619657, type: 2}
+  - {fileID: 9100000, guid: ea32cf4e728bb914092ddccf21289d6a, type: 2}
+  - {fileID: 9100000, guid: 325ad0ff66915a14eaef4e819df9df52, type: 2}
+  legSkins:
+  - {fileID: 9100000, guid: 297aead598519da40bc46a910cf9ee85, type: 2}
+  - {fileID: 9100000, guid: 344f3de5214b3e0478766279b775ae1b, type: 2}
+  - {fileID: 9100000, guid: 8b90b03e8d0b88d44858c7aade46e21f, type: 2}
+  headNames:
+  - Standard Head
+  - Sepia Head
+  - Synthwave Head
+  bodyNames:
+  - Standard Jacket
+  - Sepia Jacket
+  - Synthwave Jacket
+  legNames:
+  - Standard Pants
+  - Sepia Pants
+  - Synthwave Pants

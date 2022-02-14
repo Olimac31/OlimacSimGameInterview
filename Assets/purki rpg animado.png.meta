@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: 31a039b370d927143bee794e429f3082
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1130551062677577606
+    second: purki rpg animado_0
+  - first:
+      213: 3216010501410853639
+    second: purki rpg animado_1
+  - first:
+      213: -1078978715602190466
+    second: purki rpg animado_2
+  - first:
+      213: 6979381696009718436
+    second: purki rpg animado_3
+  - first:
+      213: -6973153365556726955
+    second: purki rpg animado_4
+  - first:
+      213: 5284718557359002973
+    second: purki rpg animado_5
+  - first:
+      213: 6630175581132031993
+    second: purki rpg animado_6
+  - first:
+      213: 7904203269151407341
+    second: purki rpg animado_7
+  - first:
+      213: -1016745576086376857
+    second: purki rpg animado_8
+  - first:
+      213: 8036152617974400266
+    second: purki rpg animado_9
+  - first:
+      213: 3896127932598065905
+    second: purki rpg animado_10
+  - first:
+      213: -6648696786724650784
+    second: purki rpg animado_11
+  - first:
+      213: -5418304963102421084
+    second: purki rpg animado_12
+  - first:
+      213: -6685361638561950036
+    second: purki rpg animado_13
+  - first:
+      213: -8719441436627449544
+    second: purki rpg animado_14
+  - first:
+      213: 5743343658708215434
+    second: purki rpg animado_15
+  - first:
+      213: -481837135118615343
+    second: purki rpg animado_16
+  - first:
+      213: -4097996047659691165
+    second: purki rpg animado_17
+  - first:
+      213: 3790101838442558753
+    second: purki rpg animado_18
+  - first:
+      213: 4033685239099785630
+    second: purki rpg animado_19
+  - first:
+      213: 7611471363951865322
+    second: purki rpg animado_20
+  - first:
+      213: -2261607677244347565
+    second: purki rpg animado_21
+  - first:
+      213: 6562955665955192358
+    second: purki rpg animado_22
+  - first:
+      213: -6092014933140692080
+    second: purki rpg animado_23
+  - first:
+      213: 7102650522135617117
+    second: purki rpg animado_24
+  - first:
+      213: -5100743510646628400
+    second: purki rpg animado_25
+  - first:
+      213: 3837903906128488223
+    second: purki rpg animado_26
+  - first:
+      213: 5386684185057525544
+    second: purki rpg animado_27
+  - first:
+      213: -2120435261630612416
+    second: purki rpg animado_28
+  - first:
+      213: -1196975948431837059
+    second: purki rpg animado_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: purki rpg animado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70a9a46cc97f40f0800000000000000
+      internalID: -1130551062677577606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 441
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703158a038091ac20800000000000000
+      internalID: 3216010501410853639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 441
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ff2582392b601f0800000000000000
+      internalID: -1078978715602190466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 441
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aac5869caebbd060800000000000000
+      internalID: 6979381696009718436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553fba995f16a3f90800000000000000
+      internalID: -6973153365556726955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 392
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d555c4d3787175940800000000000000
+      internalID: 5284718557359002973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 392
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f708d7109d130c50800000000000000
+      internalID: 6630175581132031993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 392
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec304abefe51bd60800000000000000
+      internalID: 7904203269151407341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76eeb66194bc3e1f0800000000000000
+      internalID: -1016745576086376857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 343
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05803b8a36268f60800000000000000
+      internalID: 8036152617974400266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 343
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa1cfd46b3d11630800000000000000
+      internalID: 3896127932598065905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 343
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e00fffaf751bb3a0800000000000000
+      internalID: -6648696786724650784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af4b8de7505ec4b0800000000000000
+      internalID: -5418304963102421084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 294
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6dd72a203d833a0800000000000000
+      internalID: -6685361638561950036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 294
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839cff106325ef680800000000000000
+      internalID: -8719441436627449544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 294
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86ab48c0a474bf40800000000000000
+      internalID: 5743343658708215434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcb9a1bdab2059f0800000000000000
+      internalID: -481837135118615343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 245
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3631a488e4ef027c0800000000000000
+      internalID: -4097996047659691165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 245
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1257cee8a85299430800000000000000
+      internalID: 3790101838442558753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 245
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9187448a578af730800000000000000
+      internalID: 4033685239099785630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 245
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeda862d0e061a960800000000000000
+      internalID: 7611471363951865322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 245
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bed80dcc72d90e0800000000000000
+      internalID: -2261607677244347565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 245
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e75e9f76d441b50800000000000000
+      internalID: 6562955665955192358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_23
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 245
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09326c7f1b0d47ba0800000000000000
+      internalID: -6092014933140692080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_24
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 245
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ed2a7b40fa19260800000000000000
+      internalID: 7102650522135617117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_25
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 245
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df578d4dc48639b0800000000000000
+      internalID: -5100743510646628400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f176fdeb449f24530800000000000000
+      internalID: 3837903906128488223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 196
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f7197f9b851ca40800000000000000
+      internalID: 5386684185057525544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_28
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 196
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c7b453d53b292e0800000000000000
+      internalID: -2120435261630612416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purki rpg animado_29
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 196
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78b80d77bc736fe0800000000000000
+      internalID: -1196975948431837059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

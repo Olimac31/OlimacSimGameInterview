@@ -68,9 +68,9 @@ public class playerMovement : MonoBehaviour
       }
 
       //Open Menu (Skin menu for now)
-      if(Input.GetButtonDown("Fire3") && !reading && GameObject.Find("skinMenu") == null)
+      if(Input.GetButtonDown("Fire3") && !reading && GameObject.Find("charMenu") == null)
       {
-        GameManager.instance.OpenSkinMenu();
+        GameManager.instance.OpenCharMenu();
       }
 
       /* DEBUG READING

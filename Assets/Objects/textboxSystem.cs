@@ -154,7 +154,7 @@ public class textboxSystem : MonoBehaviour
         - "-sp chr XX" -> Allows you to change the Character Beep, XX being the slot (00, 01, 02, etc)
         - "-sp /yn 00" -> Asks the player a YES/NO question [WIP]
         - "-sp col 00" -> Changes the text color to a preset color (Custom Colors not available yet) [WIP]
-        - "-sp scr XX" -> Reads a script attached to the GameObject
+        - "-sp scr XX" -> Reads a script attached to the GameObject [WIP]
 
         */
 

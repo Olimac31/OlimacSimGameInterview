@@ -15,7 +15,8 @@ public class GameManager : MonoBehaviour
 
  
     public List<int> chosenSkins = new List<int>(); //The skin numbers chosen by the player
-    public GameObject skinMenuPrefab;
+    public List<int> playerItems = new List<int>(8); //Uses the global items ID
+    public GameObject charMenuPrefab;
 
     //Singleton code---------------------------------
     void Awake()
@@ -31,10 +32,10 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void OpenSkinMenu()
+    public void OpenCharMenu()
     {
         GameObject clone;
-        clone = Instantiate(skinMenuPrefab) as GameObject;
+        clone = Instantiate(charMenuPrefab) as GameObject;
 
         GameObject.Find("objPlayer").GetComponent<playerMovement>().stopMovement(); //Disable player control
     }

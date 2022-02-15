@@ -40,19 +40,21 @@
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\SendCustomBeeps.cs" />
      <Compile Include="Assets\Scripts\SendMusicToManager.cs" />
+     <Compile Include="Assets\FindRetroCamera.cs" />
      <Compile Include="Assets\Scripts\SoundManager.cs" />
      <Compile Include="Assets\Objects\textboxSystem.cs" />
      <Compile Include="Assets\NightFilterScript.cs" />
      <Compile Include="Assets\Objects\doorEvents.cs" />
      <Compile Include="Assets\cameraController.cs" />
      <Compile Include="Assets\scr_dialogBoxCollider.cs" />
+     <Compile Include="Assets\SkinChanger.cs" />
      <Compile Include="Assets\colliderTest.cs" />
      <Compile Include="Assets\playerMovement.cs" />
      <Compile Include="Assets\GlobalSkinList.cs" />
      <Compile Include="Assets\fontFixer.cs" />
      <Compile Include="Assets\Objects\playerInteractions.cs" />
-     <Compile Include="Assets\FindRetroCamera.cs" />
-     <Compile Include="Assets\SkinChanger.cs" />
+     <Compile Include="Assets\makeInvisibleTileset.cs" />
+     <Compile Include="Assets\GlobalItemList.cs" />
     <Reference Include="UnityEngine">
         <HintPath>D:\Program Files\Unity Hub\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>

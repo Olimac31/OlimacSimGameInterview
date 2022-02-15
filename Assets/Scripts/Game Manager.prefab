@@ -29,6 +29,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1575223765924978945}
+  - {fileID: 9219979214514988437}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -50,7 +51,58 @@ MonoBehaviour:
   playerStress: 0
   nightFilter: 0
   chosenSkins: 000000000000000000000000
-  skinMenuPrefab: {fileID: 3443657972704621369, guid: 34db7c1c6b9106841b8a0acd0d49c629, type: 3}
+  playerItems: 0000000000000000000000000000000000000000000000000000000000000000
+  charMenuPrefab: {fileID: 3443657972704621369, guid: 34db7c1c6b9106841b8a0acd0d49c629, type: 3}
+--- !u!1 &2534682723174249314
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9219979214514988437}
+  - component: {fileID: 7310914730345840669}
+  m_Layer: 0
+  m_Name: GlobalItemList
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9219979214514988437
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2534682723174249314}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1783637843566358149}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7310914730345840669
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2534682723174249314}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8af347ce0419ccd46882da7581847406, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  globalItems:
+  - ---
+  - Energy Drink
+  - Health Potion
+  - placeholderitem
+  globalItemType: []
+  errorSound: {fileID: 8300000, guid: 40731f176b4b8484e8a290fa56331034, type: 3}
 --- !u!1 &8250110495337198682
 GameObject:
   m_ObjectHideFlags: 0
